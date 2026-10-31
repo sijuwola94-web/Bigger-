@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "BIGGER",
+    "slug": "bigger",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#FFEB3B",
+      "resizeMode": "contain"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FFEB3B"
+      }
+    },
+    "web": {
+      "favicon": "https://i.imgur.com/2nCt3Sb.png"
+    }
+  }
+}
